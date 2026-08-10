@@ -5,7 +5,7 @@ vote for zetrexMC network and claim the server rewards .
 
 
 
-- programmer : linuxuser -ksr
+- programmer : linuxuser -ksr & Dody_lol
 - Minecraft java account name : _MuslimMan
 
 
